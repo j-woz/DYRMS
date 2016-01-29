@@ -1,0 +1,9 @@
+
+# Emacs backups
+*~
+
+# Images
+*.eps
+
+# Bulk data
+*.nxs
