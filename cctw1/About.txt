@@ -1,6 +1,7 @@
 
 ////
 This file may be rendered with asciidoc
+You can view it at: http://www.mcs.anl.gov/~wozniak/dyrms-cctw1.html
 ////
 
 = CCTW Mock Case 1
